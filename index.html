@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensajeros Pico y Placa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Consulta de Pico y Placa</h1>
+    
+    <label for="fecha">Selecciona una fecha:</label>
+    <input type="date" id="fecha">
+    
+    <button onclick="buscarPicoYPlaca()">Registro Pico y Placa</button>
+
+    <div id="contador">
+        <p>Mensajeros con pico y placa: </p>
+        <p>Mensajeros sin pico y placa: </p>
+    </div>
+    
+    <ul id="resultado"></ul>
+    
+    <script src="script.js"></script>
+</body>
+</html>

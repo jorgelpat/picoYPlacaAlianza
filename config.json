@@ -1,0 +1,22 @@
+[
+    { "id": 1, "nombre": "Juan Pérez", "placa": "ABC12T" },
+    { "id": 2, "nombre": "María López", "placa": "XYZ78F" },
+    { "id": 3, "nombre": "Carlos Gómez", "placa": "LMN45H" },
+    { "id": 4, "nombre": "Antonio Rodríguez", "placa": "OPQ01J" },
+    { "id": 5, "nombre": "Ana Martínez", "placa": "RST34P" },
+    { "id": 6, "nombre": "Luis Hernández", "placa": "UVW67Q" },
+    { "id": 7, "nombre": "Elena Sánchez", "placa": "IJK90F" },
+    { "id": 8, "nombre": "Pedro Pérez", "placa": "DEF23G" },
+    { "id": 9, "nombre": "Sofía López", "placa": "GHI56D" },
+    { "id": 10, "nombre": "Javier Gómez", "placa": "JKL89T" },
+    { "id": 11, "nombre": "Marta Rodríguez", "placa": "MNO12H" },
+    { "id": 12, "nombre": "Manuel Martínez", "placa": "PQR45C" },
+    { "id": 13, "nombre": "Carmen Hernández", "placa": "STU78X" },
+    { "id": 14, "nombre": "Rosa Sánchez", "placa": "VWX01B" },
+    { "id": 15, "nombre": "Jorge Pérez", "placa": "YZA34G" },
+    { "id": 16, "nombre": "Laura López", "placa": "BCD67S" },
+    { "id": 17, "nombre": "Fernando Gómez", "placa": "EFG90A" },
+    { "id": 18, "nombre": "Isabel Rodríguez", "placa": "HIJ23A" },
+    { "id": 19, "nombre": "Ricardo Martínez", "placa": "KLM56F" },
+    { "id": 20, "nombre": "Patricia Hernández", "placa": "NOP89G" }
+]
